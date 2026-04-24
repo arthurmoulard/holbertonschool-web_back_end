@@ -50,3 +50,4 @@ class Server:
             "prev_page": page - 1 if page > 1 else None,
             "total_pages": total_pages,
         }
+    

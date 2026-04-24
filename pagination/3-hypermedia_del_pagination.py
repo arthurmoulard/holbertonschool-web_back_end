@@ -52,3 +52,4 @@ class Server:
             "page_size": page_size,
             "next_index": current_index,
         }
+    
